@@ -15,7 +15,7 @@ print("Coded by dev github/dev6920")
 
 while True:
   
-  username = input("Enter username (type 'exit' to quit): ")
+  username = input("xChubbyOg (type 'exit' to quit): ")
 
   if username == "exit":
     break
@@ -44,4 +44,4 @@ while True:
     print(f"Account ID: {account_id}")
     print(f"Username: {player_name}")
   else:
-    print("Cant find Account ID ")
+    print("Cant find Account ID "
